@@ -101,6 +101,10 @@ header {
   position:fixed;
 }
 
+p.filelist {
+  line-height:90%;
+}
+
 header ul {
   list-style:none;
   height:65px;
